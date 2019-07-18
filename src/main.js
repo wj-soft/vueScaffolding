@@ -3,6 +3,9 @@ import App from './App.vue'
 import router from './router'
 import store from './store/index'
 
+// 전역 CSS
+import '@/styles/style.css'
+
 Vue.config.productionTip = false
 
 new Vue({

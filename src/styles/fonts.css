@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../assets/fonts/notokr-regular.eot) format('embedded-opentype');
+    src: url(../assets/fonts/notokr-regular.eot?#iefix) format('embedded-opentype'),
+        url(../assets/fonts/notokr-regular.woff) format('woff'),
+        url(../assets/fonts/notokr-regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    src: url(../assets/fonts/notokr-medium.eot) format('embedded-opentype');
+    src: url(../assets/fonts/notokr-medium.eot?#iefix) format('embedded-opentype'),
+        url(../assets/fonts/notokr-medium.woff) format('woff'),
+        url(../assets/fonts/notokr-medium.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 600;
+    src: url(../assets/fonts/notokr-bold.eot) format('embedded-opentype');
+    src: url(../assets/fonts/notokr-bold.eot?#iefix) format('embedded-opentype'),
+        url(../assets/fonts/notokr-bold.woff) format('woff'),
+        url(../assets/fonts/notokr-bold.woff2) format('woff2');
+}
