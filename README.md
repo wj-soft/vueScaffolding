@@ -1,21 +1,4 @@
-# dashboard_tdd
-
-## About
-* vue-cli 3.0 
-* coding rules : standard
-* vuex, vue-router, node-sass
-
-## 폴더구조
-* assets : 이미지, 폰트, 아이콘 등 정적자원
-* layout : 어플리케이션의 전체 레이아웃
-* styles : 전역 CSS
-* components : views에서 공통으로 사용되는 컴퍼넌트
-* view/:name/index
-* view/:name/components : 각각의 view내부에서만 사용되는 컴퍼넌트
-* store : store는 모듈화화여 관리
-* test/e2e : Cypress
-* test/unit : Jest
-
+# Vue-cli 3.0 Project Starter
 
 ## Project setup
 ```
